@@ -1,0 +1,11 @@
+p {
+    margin: 30px 15px;
+    padding: 20px;
+    border: 1px solid #016fb9;
+    border-radius: 15px;
+}
+
+h1 {
+    border: 1px solid #d8e3ec;
+    border-radius: 15px;
+}
